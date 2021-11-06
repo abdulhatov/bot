@@ -2,7 +2,7 @@
 
 Database
     
-    create database tournament character set utf8 collate utf8_unicode_ci;
+    create database database name character set utf8 collate utf8_unicode_ci;
     CREATE USER 'admin1234'@'localhost' IDENTIFIED BY 'admin1234';
     GRANT ALL PRIVILEGES ON *.* TO 'admin1234'@'localhost';
     FLUSH PRIVILEGES;
