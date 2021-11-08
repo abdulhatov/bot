@@ -1,7 +1,6 @@
 from view import View
 from chek_data import ChekData
 from model import *
-
 def main():
     view = View()
     checkData = ChekData()
@@ -10,5 +9,6 @@ def main():
     else:
         view.full_up_database()
         view.getData()
+
 if __name__ == "__main__":
     main()

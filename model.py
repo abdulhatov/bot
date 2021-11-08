@@ -12,7 +12,6 @@ class Model():
                                      db=DATA['db'],
                                      charset=DATA['charset'],
                                      cursorclass=pymysql.cursors.DictCursor)
-        print("connect successful!!")
 
         insert_numbers_query = "INSERT INTO numbers_table (code, number, status) VALUES ( %s, %s, %s) "
         try:

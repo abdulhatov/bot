@@ -19,17 +19,14 @@ class View():
         self.n = 0
 
     def getData(self):
-        #self.driver = webdriver.Chrome()
-        x=1
+        self.driver = webdriver.Chrome()
         while True:
-            #self.loop(self.code)
-            print(f'x = {x}"    "{self.code}')
-            x = x + 1
+            self.loop(self.code)
             if self.code == 999:
                 hostname = socket.gethostname()
                 local_ip = socket.gethostbyname(hostname)
                 today = date.today()
-                #self.model.set_Date(local_ip, today)
+                self.model.set_Date(local_ip, today)
                 break
 
             self.code = self.code + 1
@@ -61,7 +58,8 @@ class View():
                     self.model.update_numbers(Model, i)
 
     def full_up_database(self):
-
+        print("Database is fulling up.....")
+        print("This take a some time!")
         while True:
 
             for number in range(0, 1000000):
@@ -77,3 +75,4 @@ class View():
                 self.code = self.code_list[self.index]
                 self.index = self.index + 1
 
+        print("Database has been ful up")
