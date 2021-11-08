@@ -1,11 +1,17 @@
+import os
 import time
 import socket
 from datetime import date
 from selenium import webdriver
 from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.common.by import By
+from selenium.webdriver.firefox.options import Options
+
 from  model import Model
 from chek_data import ChekData
+from webdriver_manager.firefox import GeckoDriverManager
+
+
 class View():
 
     def __init__(self):
@@ -19,7 +25,8 @@ class View():
         self.n = 0
 
     def getData(self):
-        self.driver = webdriver.Chrome()
+        self.driver = webdriver.Firefox(executable_path=GeckoDriverManager().install())
+        #self.driver = webdriver.Firefox()
         while True:
             self.loop(self.code)
             if self.code == 999:

@@ -1,0 +1,20 @@
+1636376075462	geckodriver	INFO	Listening on 127.0.0.1:38329
+1636376075973	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "32897" "-no-remote" "-profile" "/tmp/rust_mozprofileDaQvtr"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1636376077144	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileDaQvtr/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:32897/devtools/browser/cd86ca02-4662-45d1-b79a-e6162b9b8a75
+1636376078747	Marionette	INFO	Listening on port 32907
+1636376078839	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.ccb090b3a46e05558abd.js, line 57: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.ccb090b3a46e05558abd.js, line 57: unreachable code after return statement
+1636376086382	Marionette	INFO	Stopped listening on port 32907
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636376088750	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
