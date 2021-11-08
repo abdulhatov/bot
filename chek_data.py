@@ -53,3 +53,33 @@ class ChekData():
                 connection.close()
                 print("MySQL connection is closed")
         return max_id
+    # def update_number(self):
+    #     last_id = 0
+    #    # try:
+    #     connection = pymysql.connect(host=DATA['host'],
+    #                                  user=DATA['user'],
+    #                                  password=DATA['password'],
+    #                                  db=DATA['db'],
+    #                                  charset=DATA['charset'],
+    #                                  cursorclass=pymysql.cursors.DictCursor)
+    #
+    #     cursor = connection.cursor()
+    #         #sql_select_query = f" update numbers_table set status=1, id = LAST_INSERT_ID(id) where number={000000} "
+    #     sql_select_query = " select last_insert_id()"
+    #         # set variable in query
+    #     cursor.execute(sql_select_query)
+    #         # fetch result
+    #     last_id = cursor.fetchone()
+    #
+    #     # except:
+    #     #     print("Failed to get record from MySQL table")
+    #     # finally:
+    #     #     if connection.connect():
+    #     #         cursor.close()
+    #     #         connection.close()
+    #     #         print("MySQL connection is closed")
+    #     return last_id
+
+
+
+

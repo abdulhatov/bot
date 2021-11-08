@@ -19,16 +19,17 @@ class View():
         self.n = 0
 
     def getData(self):
-        self.driver = webdriver.Chrome()
+        #self.driver = webdriver.Chrome()
+        x=1
         while True:
-
-            self.loop(self.code)
-
+            #self.loop(self.code)
+            print(f'x = {x}"    "{self.code}')
+            x = x + 1
             if self.code == 999:
                 hostname = socket.gethostname()
                 local_ip = socket.gethostbyname(hostname)
                 today = date.today()
-                self.model.set_Date(local_ip, today)
+                #self.model.set_Date(local_ip, today)
                 break
 
             self.code = self.code + 1
@@ -44,7 +45,7 @@ class View():
 
             n = int(f'996{self.code}''{:>06d}'.format(((self.checkdb.get_number_id(ChekData,i)['number']))))
             self.driver.get(f"https://web.whatsapp.com/send?phone={n}")
-            time.sleep(4)
+            time.sleep(8)
 
             s = "Tap Menu\nor Settings\nand select Linked Devices"
             if (self.driver.find_element(By.CLASS_NAME, value="i0jNr").text) == s:
