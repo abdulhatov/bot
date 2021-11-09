@@ -18,3 +18,449 @@ JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_
 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
 1636376088750	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
+1636385706525	geckodriver	INFO	Listening on 127.0.0.1:34555
+1636385707035	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "36935" "-no-remote" "-profile" "/tmp/rust_mozprofileptWCHQ"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1636385708013	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileptWCHQ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:36935/devtools/browser/d6599617-3018-4fb4-b267-e9eaae3c493b
+1636385709386	Marionette	INFO	Listening on port 40689
+1636385709463	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.ccb090b3a46e05558abd.js, line 57: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.ccb090b3a46e05558abd.js, line 57: unreachable code after return statement
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.ccb090b3a46e05558abd.js, line 57: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.ccb090b3a46e05558abd.js, line 57: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.ccb090b3a46e05558abd.js, line 57: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.ccb090b3a46e05558abd.js, line 57: unreachable code after return statement
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.ccb090b3a46e05558abd.js, line 57: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.ccb090b3a46e05558abd.js, line 57: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.ccb090b3a46e05558abd.js, line 57: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.ccb090b3a46e05558abd.js, line 57: unreachable code after return statement
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1636386958699	geckodriver	INFO	Listening on 127.0.0.1:44951
+1636386959198	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49467" "-no-remote" "-profile" "/tmp/rust_mozprofileFFk2oX"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1636386959985	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileFFk2oX/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49467/devtools/browser/3283eb65-a8ee-415c-b35d-1431cb3ec4f6
+1636386961313	Marionette	INFO	Listening on port 46079
+1636386961423	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.ccb090b3a46e05558abd.js, line 57: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.ccb090b3a46e05558abd.js, line 57: unreachable code after return statement
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.ccb090b3a46e05558abd.js, line 57: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.ccb090b3a46e05558abd.js, line 57: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.ccb090b3a46e05558abd.js, line 57: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.ccb090b3a46e05558abd.js, line 57: unreachable code after return statement
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.ccb090b3a46e05558abd.js, line 57: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.ccb090b3a46e05558abd.js, line 57: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.ccb090b3a46e05558abd.js, line 57: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.ccb090b3a46e05558abd.js, line 57: unreachable code after return statement
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.ccb090b3a46e05558abd.js, line 57: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.ccb090b3a46e05558abd.js, line 57: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1636388739009	geckodriver	INFO	Listening on 127.0.0.1:44683
+1636388739512	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "59023" "-no-remote" "-profile" "/tmp/rust_mozprofileY2t4wA"
+*** You are running in headless mode.
+1636388739928	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileY2t4wA/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59023/devtools/browser/6e992618-84d8-439a-afd0-daff41e6ffa7
+1636388741099	Marionette	INFO	Listening on port 36623
+1636388741137	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.ccb090b3a46e05558abd.js, line 57: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.ccb090b3a46e05558abd.js, line 57: unreachable code after return statement
+1636388755931	Marionette	INFO	Stopped listening on port 36623
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636388797078	geckodriver	INFO	Listening on 127.0.0.1:34169
+1636388797082	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "38293" "-no-remote" "-profile" "/tmp/rust_mozprofilegIw6gY"
+*** You are running in headless mode.
+1636388797495	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilegIw6gY/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:38293/devtools/browser/942f83a5-1b4d-4104-a68b-cbcc079d2388
+1636388798651	Marionette	INFO	Listening on port 46629
+1636388798709	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.ccb090b3a46e05558abd.js, line 57: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.ccb090b3a46e05558abd.js, line 57: unreachable code after return statement
+1636388812058	Marionette	INFO	Stopped listening on port 46629
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636388832559	geckodriver	INFO	Listening on 127.0.0.1:58565
+1636388832563	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "51213" "-no-remote" "-profile" "/tmp/rust_mozprofileXmwnh4"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1636388833405	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileXmwnh4/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51213/devtools/browser/5eb6a45a-ac95-46ce-b8ff-a745fabb97ad
+1636388834881	Marionette	INFO	Listening on port 40267
+1636388834994	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.ccb090b3a46e05558abd.js, line 57: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.ccb090b3a46e05558abd.js, line 57: unreachable code after return statement
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.ccb090b3a46e05558abd.js, line 57: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.ccb090b3a46e05558abd.js, line 57: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.ccb090b3a46e05558abd.js, line 57: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.ccb090b3a46e05558abd.js, line 57: unreachable code after return statement
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.ccb090b3a46e05558abd.js, line 57: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.ccb090b3a46e05558abd.js, line 57: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.ccb090b3a46e05558abd.js, line 57: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.ccb090b3a46e05558abd.js, line 57: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.ccb090b3a46e05558abd.js, line 57: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.ccb090b3a46e05558abd.js, line 57: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.ccb090b3a46e05558abd.js, line 57: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.ccb090b3a46e05558abd.js, line 57: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.ccb090b3a46e05558abd.js, line 57: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.ccb090b3a46e05558abd.js, line 57: unreachable code after return statement
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636389243464	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: timeout
+1636389384715	Marionette	INFO	Stopped listening on port 40267
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636389544088	geckodriver	INFO	Listening on 127.0.0.1:49961
+1636389544092	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "35999" "-no-remote" "-profile" "/tmp/rust_mozprofileZ5L4MG"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1636389544911	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileZ5L4MG/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:35999/devtools/browser/eb0e52cc-1926-4084-974a-d93ff54fa4b5
+1636389546233	Marionette	INFO	Listening on port 35919
+1636389547111	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.ccb090b3a46e05558abd.js, line 57: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.ccb090b3a46e05558abd.js, line 57: unreachable code after return statement
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.ccb090b3a46e05558abd.js, line 57: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.ccb090b3a46e05558abd.js, line 57: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.ccb090b3a46e05558abd.js, line 57: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.ccb090b3a46e05558abd.js, line 57: unreachable code after return statement
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.ccb090b3a46e05558abd.js, line 57: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.ccb090b3a46e05558abd.js, line 57: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.ccb090b3a46e05558abd.js, line 57: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.ccb090b3a46e05558abd.js, line 57: unreachable code after return statement
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.ccb090b3a46e05558abd.js, line 57: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.ccb090b3a46e05558abd.js, line 57: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.ccb090b3a46e05558abd.js, line 57: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.ccb090b3a46e05558abd.js, line 57: unreachable code after return statement
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.ccb090b3a46e05558abd.js, line 57: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.ccb090b3a46e05558abd.js, line 57: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.ccb090b3a46e05558abd.js, line 57: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.ccb090b3a46e05558abd.js, line 57: unreachable code after return statement
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.ccb090b3a46e05558abd.js, line 57: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.ccb090b3a46e05558abd.js, line 57: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.ccb090b3a46e05558abd.js, line 57: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.ccb090b3a46e05558abd.js, line 57: unreachable code after return statement
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.ccb090b3a46e05558abd.js, line 57: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.ccb090b3a46e05558abd.js, line 57: unreachable code after return statement
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x680008,name=PMessagePort::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.ccb090b3a46e05558abd.js, line 57: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.ccb090b3a46e05558abd.js, line 57: unreachable code after return statement
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.ccb090b3a46e05558abd.js, line 57: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.ccb090b3a46e05558abd.js, line 57: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.ccb090b3a46e05558abd.js, line 57: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.ccb090b3a46e05558abd.js, line 57: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.ccb090b3a46e05558abd.js, line 57: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.ccb090b3a46e05558abd.js, line 57: unreachable code after return statement
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.ccb090b3a46e05558abd.js, line 57: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.ccb090b3a46e05558abd.js, line 57: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.ccb090b3a46e05558abd.js, line 57: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.ccb090b3a46e05558abd.js, line 57: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.ccb090b3a46e05558abd.js, line 57: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.ccb090b3a46e05558abd.js, line 57: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.ccb090b3a46e05558abd.js, line 57: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.ccb090b3a46e05558abd.js, line 57: unreachable code after return statement
+1636389737187	Marionette	INFO	Stopped listening on port 35919
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636389741048	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
+1636445701997	geckodriver	INFO	Listening on 127.0.0.1:33257
+1636445702495	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "51003" "-no-remote" "-profile" "/tmp/rust_mozprofileuWatoK"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1636445703710	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileuWatoK/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51003/devtools/browser/4b92f65c-8ba7-46ce-b9b0-9f1ffd91586a
+1636445705177	Marionette	INFO	Listening on port 42027
+1636445705231	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.6a499aa48d60caaefb11.js, line 57: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.6a499aa48d60caaefb11.js, line 57: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.6a499aa48d60caaefb11.js, line 57: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.6a499aa48d60caaefb11.js, line 57: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.6a499aa48d60caaefb11.js, line 57: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.6a499aa48d60caaefb11.js, line 57: unreachable code after return statement
+1636445734719	Marionette	INFO	Stopped listening on port 42027
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636445743899	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
+1636445766565	geckodriver	INFO	Listening on 127.0.0.1:53561
+1636445766569	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56601" "-no-remote" "-profile" "/tmp/rust_mozprofileCyDti8"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1636445767394	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileCyDti8/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56601/devtools/browser/a7cf1d27-4274-4c8e-ae4d-3b2ef231c00a
+1636445768714	Marionette	INFO	Listening on port 35609
+1636445768799	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.ccb090b3a46e05558abd.js, line 57: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.ccb090b3a46e05558abd.js, line 57: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.ccb090b3a46e05558abd.js, line 57: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.ccb090b3a46e05558abd.js, line 57: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.ccb090b3a46e05558abd.js, line 57: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.ccb090b3a46e05558abd.js, line 57: unreachable code after return statement
+1636445798997	Marionette	INFO	Stopped listening on port 35609
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636445804844	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
+1636446053340	geckodriver	INFO	Listening on 127.0.0.1:34345
+1636446053344	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59649" "-no-remote" "-profile" "/tmp/rust_mozprofileHJ4R63"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1636446054237	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileHJ4R63/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59649/devtools/browser/e04850f9-f660-4d0c-8da4-a48d92c2ed86
+1636446055876	Marionette	INFO	Listening on port 45417
+1636446055969	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.ccb090b3a46e05558abd.js, line 57: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.ccb090b3a46e05558abd.js, line 57: unreachable code after return statement
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.ccb090b3a46e05558abd.js, line 57: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.ccb090b3a46e05558abd.js, line 57: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.ccb090b3a46e05558abd.js, line 57: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.ccb090b3a46e05558abd.js, line 57: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.ccb090b3a46e05558abd.js, line 57: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.ccb090b3a46e05558abd.js, line 57: unreachable code after return statement
+1636446139006	Marionette	INFO	Stopped listening on port 45417
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1636446140863	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)

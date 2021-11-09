@@ -1,7 +1,9 @@
 import pymysql.cursors
 from conf_db import DATA
+from connector_db import Connector
 # Подключиться к базе данных.
 class Model():
+    connect = Connector()
 
     def set_Numbers (self, code, number, status):
         number_list =[(code),(number),(status)]
