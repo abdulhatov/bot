@@ -6,11 +6,9 @@ from selenium import webdriver
 from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.common.by import By
 from selenium.webdriver.firefox.options import Options
-
 from  model import Model
 from chek_data import ChekData
 from webdriver_manager.firefox import  GeckoDriverManager
-
 
 class View():
 
@@ -25,10 +23,15 @@ class View():
         self.n = 0
 
     def getData(self):
+
         self.driver = webdriver.Firefox()
-        #self.driver = webdriver.Firefox()
+        self.driver.get(f"https://web.whatsapp.com/send?phone={996550000000}")
+        self.vait()
+
         while True:
+
             self.loop(self.code)
+
             if self.code == 999:
                 hostname = socket.gethostname()
                 local_ip = socket.gethostbyname(hostname)
@@ -44,11 +47,12 @@ class View():
                 self.index = self.index + 1
 
     def loop(self, code):
-        self.driver.get(f"https://web.whatsapp.com/send?phone={996550000000}")
-        self.vait()
 
+        from1 = self.model.get_last_update_number_id(Model)['id']
+        if from1 == None:
+            from1 = 1
         to = self.checkdb.get_range(self)
-        for i in range(1, int(to['max(id)'])):
+        for i in range(from1, int(to['max(id)'])):
 
             n = int(f'996{self.code}''{:>06d}'.format(((self.checkdb.get_number_id(ChekData,i)['number']))))
             self.driver.get(f"https://web.whatsapp.com/send?phone={n}")
@@ -58,8 +62,8 @@ class View():
                 elem = self.driver.find_element(By.CLASS_NAME, value="_2Nr6U")
                 print("This number don't used whatsapp!")
             except NoSuchElementException:
-                print("This number use whatsapp!")
                 self.model.update_numbers(Model, i)
+            self.model.update_numbers_date(Model, i)
 
     def full_up_database(self):
         print("Database is fulling up.....")
@@ -81,11 +85,13 @@ class View():
 
         print("Database has been ful up")
 
+
     def vait(self):
         s = "Tap Menu\nor Settings\nand select Linked Devices"
         x = 0
         while x < 1:
-            if (self.driver.find_element(By.CLASS_NAME, value="i0jNr").text) == s:
-                time.sleep(6)
+            if (self.driver.find_element(By.CLASS_NAME, value= "i0jNr").text == s):
+                print(self.driver.find_element(By.CLASS_NAME, value="i0jNr").text)
+                time.sleep(5)
             else:
                 x = 1

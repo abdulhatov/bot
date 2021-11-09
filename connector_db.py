@@ -9,6 +9,6 @@ class Connector():
                                              password=DATA['password'],
                                              db=DATA['db'],
                                              charset=DATA['charset'],
-                                             cursorclass=pymysql.cursors.DictCursor)
+                                    cursorclass=pymysql.cursors.DictCursor)
         print("connect successful!!")
         return connection
