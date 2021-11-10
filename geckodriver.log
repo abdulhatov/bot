@@ -3926,3 +3926,29 @@ JavaScript warning: https://web.whatsapp.com/bootstrap_qr.6a499aa48d60caaefb11.j
 Exiting due to channel error.
 Exiting due to channel error.
 Exiting due to channel error.
+1636517707566	geckodriver	INFO	Listening on 127.0.0.1:53395
+1636517707571	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "37449" "-no-remote" "-profile" "/tmp/rust_mozprofileXIbHL6"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1636517708441	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileXIbHL6/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:37449/devtools/browser/a0f2f3af-ee24-41c3-ae62-23eb3fd10f51
+1636517709971	Marionette	INFO	Listening on port 45237
+1636517710006	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.6a499aa48d60caaefb11.js, line 57: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.6a499aa48d60caaefb11.js, line 57: unreachable code after return statement
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.6a499aa48d60caaefb11.js, line 57: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.6a499aa48d60caaefb11.js, line 57: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.6a499aa48d60caaefb11.js, line 57: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.6a499aa48d60caaefb11.js, line 57: unreachable code after return statement
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
